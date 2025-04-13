@@ -1,4 +1,4 @@
-<img align="center" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" height="300" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/af17ae3f9ff2579d8439a00c6256e3b1caae70d998181debc759dfbd3f65f56d/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344531424151453976416c5f7559574967412f636f6d70616e792d6261636b67726f756e645f31303030302f302f313537313234343636393232383f653d3231343734383336343726763d6265746126743d58374b633168616537656b576d4f643774493172577a71304f67315162356435455033637238374c674351)">
 
 <h1 align="center">Hi there 👋, I'm Sanket Patil</h1>
 <h3 align="center">🚀 AI Innovator | 🧠 Agentic Framework Enthusiast | 🔍 Passionate Problem Solver</h3>
